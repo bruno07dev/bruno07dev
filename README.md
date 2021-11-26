@@ -1,4 +1,4 @@
-## Hi! I'm Bruno Cardoso, Full Stack JavaScript Developer!
+## Hi! I'm Bruno Cardoso, a Full Stack JavaScript Developer!
 <div align="center">
   <a href="https://github.com/bruno07dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno07dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
